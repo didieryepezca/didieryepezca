@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Didier Yépez, Systems Engineer.
 - 👀 I’m interested in Develop Web & Mobile Apps
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & Kotlin
 - 💞️ I’m looking to collaborate on many organizations.
 - 📫 How to reach me https://www.linkedin.com/in/didier-y%C3%A9pez-cabanillas-795a2ba7/
